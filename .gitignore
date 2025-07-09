@@ -1,0 +1,6 @@
+data
+my_ner_model
+raw_text_for_annotation
+invoice_02.pdf
+.history
+__pycache__
